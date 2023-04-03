@@ -1,7 +1,4 @@
-import torch.nn as nn
-import torch.nn.functional as F
-from misc import torchutils
-from net import resnet50
+
 
 
 class Net(nn.Module):
